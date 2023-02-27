@@ -1,0 +1,15 @@
+C:\Users\adria\OneDrive\Área de Trabalho\LAB365\Modulo 1\Sem1\[M1S01] Ex 1\[M1S01] Ex 1\obj\Debug\net7.0\[M1S01] Ex 1.csproj.AssemblyReference.cache
+C:\Users\adria\OneDrive\Área de Trabalho\LAB365\Modulo 1\Sem1\[M1S01] Ex 1\[M1S01] Ex 1\obj\Debug\net7.0\[M1S01] Ex 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\OneDrive\Área de Trabalho\LAB365\Modulo 1\Sem1\[M1S01] Ex 1\[M1S01] Ex 1\obj\Debug\net7.0\[M1S01] Ex 1.AssemblyInfoInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\LAB365\Modulo 1\Sem1\[M1S01] Ex 1\[M1S01] Ex 1\obj\Debug\net7.0\[M1S01] Ex 1.AssemblyInfo.cs
+C:\Users\adria\OneDrive\Área de Trabalho\LAB365\Modulo 1\Sem1\[M1S01] Ex 1\[M1S01] Ex 1\obj\Debug\net7.0\[M1S01] Ex 1.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\LAB365\Modulo 1\Sem1\[M1S01] Ex 1\[M1S01] Ex 1\bin\Debug\net7.0\[M1S01] Ex 1.exe
+C:\Users\adria\OneDrive\Área de Trabalho\LAB365\Modulo 1\Sem1\[M1S01] Ex 1\[M1S01] Ex 1\bin\Debug\net7.0\[M1S01] Ex 1.deps.json
+C:\Users\adria\OneDrive\Área de Trabalho\LAB365\Modulo 1\Sem1\[M1S01] Ex 1\[M1S01] Ex 1\bin\Debug\net7.0\[M1S01] Ex 1.runtimeconfig.json
+C:\Users\adria\OneDrive\Área de Trabalho\LAB365\Modulo 1\Sem1\[M1S01] Ex 1\[M1S01] Ex 1\bin\Debug\net7.0\[M1S01] Ex 1.dll
+C:\Users\adria\OneDrive\Área de Trabalho\LAB365\Modulo 1\Sem1\[M1S01] Ex 1\[M1S01] Ex 1\bin\Debug\net7.0\[M1S01] Ex 1.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\LAB365\Modulo 1\Sem1\[M1S01] Ex 1\[M1S01] Ex 1\obj\Debug\net7.0\[M1S01] Ex 1.dll
+C:\Users\adria\OneDrive\Área de Trabalho\LAB365\Modulo 1\Sem1\[M1S01] Ex 1\[M1S01] Ex 1\obj\Debug\net7.0\refint\[M1S01] Ex 1.dll
+C:\Users\adria\OneDrive\Área de Trabalho\LAB365\Modulo 1\Sem1\[M1S01] Ex 1\[M1S01] Ex 1\obj\Debug\net7.0\[M1S01] Ex 1.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\LAB365\Modulo 1\Sem1\[M1S01] Ex 1\[M1S01] Ex 1\obj\Debug\net7.0\[M1S01] Ex 1.genruntimeconfig.cache
+C:\Users\adria\OneDrive\Área de Trabalho\LAB365\Modulo 1\Sem1\[M1S01] Ex 1\[M1S01] Ex 1\obj\Debug\net7.0\ref\[M1S01] Ex 1.dll

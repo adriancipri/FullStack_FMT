@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>_M1S01__Ex_1</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\adria\OneDrive\Área de Trabalho\DEV\GIT\FullStack_FMT\Módulo 01\Semana 01\M1S01Ex1.cs" Link="M1S01Ex1.cs" />
+  </ItemGroup>
+
+</Project>

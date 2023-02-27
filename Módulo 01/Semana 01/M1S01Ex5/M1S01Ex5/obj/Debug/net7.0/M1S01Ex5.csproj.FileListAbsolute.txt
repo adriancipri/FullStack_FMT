@@ -1,0 +1,15 @@
+C:\Users\adria\OneDrive\Área de Trabalho\DEV\GIT\FullStack_FMT\Módulo 01\Semana 01\M1S01Ex5\M1S01Ex5\bin\Debug\net7.0\M1S01Ex5.exe
+C:\Users\adria\OneDrive\Área de Trabalho\DEV\GIT\FullStack_FMT\Módulo 01\Semana 01\M1S01Ex5\M1S01Ex5\bin\Debug\net7.0\M1S01Ex5.deps.json
+C:\Users\adria\OneDrive\Área de Trabalho\DEV\GIT\FullStack_FMT\Módulo 01\Semana 01\M1S01Ex5\M1S01Ex5\bin\Debug\net7.0\M1S01Ex5.runtimeconfig.json
+C:\Users\adria\OneDrive\Área de Trabalho\DEV\GIT\FullStack_FMT\Módulo 01\Semana 01\M1S01Ex5\M1S01Ex5\bin\Debug\net7.0\M1S01Ex5.dll
+C:\Users\adria\OneDrive\Área de Trabalho\DEV\GIT\FullStack_FMT\Módulo 01\Semana 01\M1S01Ex5\M1S01Ex5\bin\Debug\net7.0\M1S01Ex5.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\DEV\GIT\FullStack_FMT\Módulo 01\Semana 01\M1S01Ex5\M1S01Ex5\obj\Debug\net7.0\M1S01Ex5.csproj.AssemblyReference.cache
+C:\Users\adria\OneDrive\Área de Trabalho\DEV\GIT\FullStack_FMT\Módulo 01\Semana 01\M1S01Ex5\M1S01Ex5\obj\Debug\net7.0\M1S01Ex5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\OneDrive\Área de Trabalho\DEV\GIT\FullStack_FMT\Módulo 01\Semana 01\M1S01Ex5\M1S01Ex5\obj\Debug\net7.0\M1S01Ex5.AssemblyInfoInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\DEV\GIT\FullStack_FMT\Módulo 01\Semana 01\M1S01Ex5\M1S01Ex5\obj\Debug\net7.0\M1S01Ex5.AssemblyInfo.cs
+C:\Users\adria\OneDrive\Área de Trabalho\DEV\GIT\FullStack_FMT\Módulo 01\Semana 01\M1S01Ex5\M1S01Ex5\obj\Debug\net7.0\M1S01Ex5.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\DEV\GIT\FullStack_FMT\Módulo 01\Semana 01\M1S01Ex5\M1S01Ex5\obj\Debug\net7.0\M1S01Ex5.dll
+C:\Users\adria\OneDrive\Área de Trabalho\DEV\GIT\FullStack_FMT\Módulo 01\Semana 01\M1S01Ex5\M1S01Ex5\obj\Debug\net7.0\refint\M1S01Ex5.dll
+C:\Users\adria\OneDrive\Área de Trabalho\DEV\GIT\FullStack_FMT\Módulo 01\Semana 01\M1S01Ex5\M1S01Ex5\obj\Debug\net7.0\M1S01Ex5.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\DEV\GIT\FullStack_FMT\Módulo 01\Semana 01\M1S01Ex5\M1S01Ex5\obj\Debug\net7.0\M1S01Ex5.genruntimeconfig.cache
+C:\Users\adria\OneDrive\Área de Trabalho\DEV\GIT\FullStack_FMT\Módulo 01\Semana 01\M1S01Ex5\M1S01Ex5\obj\Debug\net7.0\ref\M1S01Ex5.dll
