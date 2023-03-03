@@ -1,0 +1,15 @@
+C:\Users\adria\OneDrive\Área de Trabalho\DEV\GIT\FullStack_FMT\Módulo 01\Semana 03\[M1S03]Ex1\bin\Debug\net7.0\[M1S03]Ex1.exe
+C:\Users\adria\OneDrive\Área de Trabalho\DEV\GIT\FullStack_FMT\Módulo 01\Semana 03\[M1S03]Ex1\bin\Debug\net7.0\[M1S03]Ex1.deps.json
+C:\Users\adria\OneDrive\Área de Trabalho\DEV\GIT\FullStack_FMT\Módulo 01\Semana 03\[M1S03]Ex1\bin\Debug\net7.0\[M1S03]Ex1.runtimeconfig.json
+C:\Users\adria\OneDrive\Área de Trabalho\DEV\GIT\FullStack_FMT\Módulo 01\Semana 03\[M1S03]Ex1\bin\Debug\net7.0\[M1S03]Ex1.dll
+C:\Users\adria\OneDrive\Área de Trabalho\DEV\GIT\FullStack_FMT\Módulo 01\Semana 03\[M1S03]Ex1\bin\Debug\net7.0\[M1S03]Ex1.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\DEV\GIT\FullStack_FMT\Módulo 01\Semana 03\[M1S03]Ex1\obj\Debug\net7.0\[M1S03]Ex1.csproj.AssemblyReference.cache
+C:\Users\adria\OneDrive\Área de Trabalho\DEV\GIT\FullStack_FMT\Módulo 01\Semana 03\[M1S03]Ex1\obj\Debug\net7.0\[M1S03]Ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\OneDrive\Área de Trabalho\DEV\GIT\FullStack_FMT\Módulo 01\Semana 03\[M1S03]Ex1\obj\Debug\net7.0\[M1S03]Ex1.AssemblyInfoInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\DEV\GIT\FullStack_FMT\Módulo 01\Semana 03\[M1S03]Ex1\obj\Debug\net7.0\[M1S03]Ex1.AssemblyInfo.cs
+C:\Users\adria\OneDrive\Área de Trabalho\DEV\GIT\FullStack_FMT\Módulo 01\Semana 03\[M1S03]Ex1\obj\Debug\net7.0\[M1S03]Ex1.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\DEV\GIT\FullStack_FMT\Módulo 01\Semana 03\[M1S03]Ex1\obj\Debug\net7.0\[M1S03]Ex1.dll
+C:\Users\adria\OneDrive\Área de Trabalho\DEV\GIT\FullStack_FMT\Módulo 01\Semana 03\[M1S03]Ex1\obj\Debug\net7.0\refint\[M1S03]Ex1.dll
+C:\Users\adria\OneDrive\Área de Trabalho\DEV\GIT\FullStack_FMT\Módulo 01\Semana 03\[M1S03]Ex1\obj\Debug\net7.0\[M1S03]Ex1.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\DEV\GIT\FullStack_FMT\Módulo 01\Semana 03\[M1S03]Ex1\obj\Debug\net7.0\[M1S03]Ex1.genruntimeconfig.cache
+C:\Users\adria\OneDrive\Área de Trabalho\DEV\GIT\FullStack_FMT\Módulo 01\Semana 03\[M1S03]Ex1\obj\Debug\net7.0\ref\[M1S03]Ex1.dll
